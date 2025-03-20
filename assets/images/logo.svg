@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <!-- T horizontal bar with extended right side -->
+  <path d="M100,80 L300,80" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" />
+  
+  <!-- T vertical line -->
+  <path d="M200,80 L200,120" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" />
+  
+  <!-- NEX - ultra minimal -->
+  <path d="M115,90 L115,120 M115,90 L135,120 M135,90 L135,120" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <path d="M145,90 L145,120 M145,90 L165,90 M145,105 L160,105 M145,120 L165,120" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <path d="M175,90 L185,120 M175,120 L185,90" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  
+  <!-- G - with even more open top right -->
+  <path d="M225,105 C225,95 235,90 245,90 C252,90 255,92 255,97 M225,105 C225,115 235,120 245,120 C253,120 256,118 258,113 M246,105 L258,105 M258,105 L258,113" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <path d="M270,90 L270,120 M270,90 L290,90 M270,105 L285,105 M270,120 L290,120" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  <path d="M300,90 L300,120 M300,90 L320,120 M320,90 L320,120" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round" />
+  
+  <!-- ROBOTICS text -->
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="300" letter-spacing="3" text-anchor="middle" fill="#000000">
+    ROBOTICS
+  </text>
+</svg>
